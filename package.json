@@ -42,13 +42,13 @@
     "request": "^2.88.2",
     "request-promise": "^4.2.5",
     "rxjs": "~6.5.4",
-    "socket.io": "^2.4.1",
+    "socket.io": "^2.3.0",
     "tslib": "^1.10.0",
     "zone.js": "~0.10.2"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "^0.1102.2",
-    "@angular/cli": "^9.0.7",
+    "@angular-devkit/build-angular": "^0.1000.8",
+    "@angular/cli": "~9.0.7",
     "@angular/compiler-cli": "~9.0.7",
     "@angular/language-service": "~9.0.7",
     "@types/jasmine": "~3.3.8",
@@ -66,17 +66,5 @@
     "ts-node": "~7.0.0",
     "tslint": "~5.15.0",
     "typescript": "~3.7.5"
-  },
-  "description": "This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.22. The project has since been upgraded to use Angular 9 core and cli.",
-  "main": "karma.conf.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Eddiemeister1/lmsfiufrontend.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Eddiemeister1/lmsfiufrontend/issues"
-  },
-  "homepage": "https://github.com/Eddiemeister1/lmsfiufrontend#readme"
+  }
 }
