@@ -42,12 +42,12 @@
     "request": "^2.88.2",
     "request-promise": "^4.2.5",
     "rxjs": "~6.5.4",
-    "socket.io": "^2.3.0",
+    "socket.io": "^2.4.1",
     "tslib": "^1.10.0",
     "zone.js": "~0.10.2"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "^0.1000.8",
+    "@angular-devkit/build-angular": "^0.1102.2",
     "@angular/cli": "~9.0.7",
     "@angular/compiler-cli": "~9.0.7",
     "@angular/language-service": "~9.0.7",
